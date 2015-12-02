@@ -3,7 +3,7 @@
 ```
 python-server/socket_server.py
 ```
-2.using for browse the lyrics that upload by user
+2.using for browsing the lyrics that upload by user
 ```
 www/feedback_unupload.php
 ```
