@@ -11,3 +11,7 @@ python-server/socket_server.py
 ```
 www/feedback_unupload.php
 ```
+4.Receive lyrics from **feedback_unupload.php**, and update them into the database.
+```
+www/lyricUpdate.py
+```
